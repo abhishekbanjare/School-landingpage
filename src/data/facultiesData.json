@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "specialist": "Mathematics",
+    "profileImage": "Img/Faculties/Imag1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "specialist": "Science",
+    "profileImage": "Img/Faculties/Imag4.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Robert Brown",
+    "specialist": "History",
+    "profileImage": "Img/Faculties/Imag3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Emily Johnson",
+    "specialist": "English",
+    "profileImage": "Img/Faculties/Imag6.jfif"
+  },
+  {
+    "id": 5,
+    "name": "Michael Lee",
+    "specialist": "Computer Science",
+    "profileImage": "Img/Faculties/Imag2.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Sophia White",
+    "specialist": "Art and Design",
+    "profileImage": "Img/Faculties/Imag5.jpg"
+  },
+  {
+    "id": 7,
+    "name": "David Miller",
+    "specialist": "Physical Education",
+    "profileImage": "Img/Faculties/Imag4.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Sarah Davis",
+    "specialist": "Biology",
+    "profileImage": "Img/Faculties/Imag2.jpg"
+  },
+  {
+    "id": 9,
+    "name": "James Wilson",
+    "specialist": "Chemistry",
+    "profileImage": "Img/Faculties/Imag3.jpg"
+  }
+]

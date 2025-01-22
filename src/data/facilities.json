@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Spacious Classrooms",
+    "image": "Img/facultiesImg/FacilitiesImg1.jpg",
+    "description": "Well-ventilated and spacious classrooms for better learning."
+  },
+  {
+    "id": 2,
+    "title": "Modern Labs",
+    "image": "Img/facultiesImg/FacilitiesImg2.jpg",
+    "description": "Equipped with state-of-the-art technology and tools."
+  },
+  {
+    "id": 3,
+    "title": "Library",
+    "image": "Img/facultiesImg/FacilitiesImg3.jpg",
+    "description": "A vast collection of books for students to explore."
+  },
+  {
+    "id": 4,
+    "title": "Sports Facilities",
+    "image": "Img/facultiesImg/FacilitiesImg4.jpg",
+    "description": "Encouraging physical activity with modern sports equipment."
+  },
+  {
+    "id": 5,
+    "title": "Cafeteria",
+    "image": "Img/facultiesImg/FacilitiesImg5.jpg",
+    "description": "Healthy and hygienic meals for students and staff."
+  },
+  {
+    "id": 6,
+    "title": "Transport Services",
+    "image": "Img/facultiesImg/FacilitiesImg6.jpg",
+    "description": "Safe and reliable transportation for all students."
+  }
+]
